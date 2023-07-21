@@ -17,4 +17,4 @@ PyWavelets==1.4.0
 scikit-image==0.19.3
 scipy==1.7.3
 tifffile==2021.11.2
-Werkzeug==2.3.6
+Werkzeug==2.2.3
