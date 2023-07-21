@@ -14,7 +14,7 @@ opencv-python==4.8.0.74
 packaging==23.1
 Pillow==9.5.0
 PyWavelets==1.4.0
-scikit-image==0.21.0
+scikit-image==0.19.3
 scipy==1.11.1
 tifffile==2023.7.18
 Werkzeug==2.3.6
