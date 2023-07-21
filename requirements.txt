@@ -16,5 +16,5 @@ Pillow==9.5.0
 PyWavelets==1.4.0
 scikit-image==0.19.3
 scipy==1.7.3
-tifffile==2023.7.18
+tifffile==2021.11.2
 Werkzeug==2.3.6
